@@ -1,2 +1,2 @@
-# html/css/JS-Web
+# html/css/JS - Coffe Website
 Coffee Website
